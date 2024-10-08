@@ -1,0 +1,16 @@
+"Szerzõ" "Cím" "KiadásÉve" "ISBN" "Állapot"
+J.K. Rowling,Harry Potter and the Philosopher's Stone,1997,0-7475-3269-9,Olvasott
+George Orwell,1984,1949,0-452-28423-6,Olvasatlan
+J.R.R. Tolkien,The Hobbit,1937,0-618-00221-9,Olvasott
+F. Scott Fitzgerald,The Great Gatsby,1925,0-7432-7356-7,Olvasatlan
+Jane Austen,Pride and Prejudice,1813,0-19-283355-X,Olvasott
+Harper Lee,To Kill a Mockingbird,1960,0-06-112008-1,Olvasott
+Mark Twain,The Adventures of Huckleberry Finn,1884,0-14-310732-1,Olvasatlan
+Charles Dickens,Great Expectations,1861,0-14-143956-4,Olvasott
+Leo Tolstoy,War and Peace,1869,0-19-926794-4,Olvasatlan
+Ernest Hemingway,The Old Man and the Sea,1952,0-684-80122-1,Olvasott
+William Shakespeare,Hamlet,1603,978-0521618748,Olvasatlan
+Agatha Christie,Murder on the Orient Express,1934,0-000-72825-6,Olvasott
+Louisa May Alcott,Little Women,1868,0-451-52994-6,Olvasatlan
+Charlotte Brontë,Jane Eyre,1847,0-14-144114-3,Olvasott
+Dan Brown,The Da Vinci Code,2003,0-385-50420-9,Olvasatlan

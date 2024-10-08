@@ -1,0 +1,7 @@
+"Eszköz" "Ipcím" "MacCím" "Csatlakozó"
+PC4,192.168.102.3,00E0.F96C.155B,GigabitEthernet1/0,/24
+PC3,10.0.2.129,0004.9A42.C245,GigabitEthernet1/0,/24
+PC1,10.0.1.129,00E0.A330.3359,GigabitEthernet1/0,/22
+PC2,10.0.2.130,0060.47C1.A4DB,GigabitEthernet1/0,/23
+Admin,10.0.1.130,0050.0FCE.B095,GigabitEthernet1/0,/21
+Server,192.168.101.100,000A.413D.D793,GigabitEthernet1/0,/24
